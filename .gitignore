@@ -1,0 +1,24 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
