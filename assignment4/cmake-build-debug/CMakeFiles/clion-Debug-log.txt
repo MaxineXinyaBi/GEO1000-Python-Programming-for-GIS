@@ -1,0 +1,4 @@
+"C:\Clion\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Clion/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -G Ninja -DPython_EXECUTABLE=D:/TUDelft_practice/Q1/PythonForGIS/Assignments/assignment4/venv/Scripts/python.exe -DPython3_EXECUTABLE=D:/TUDelft_practice/Q1/PythonForGIS/Assignments/assignment4/venv/Scripts/python.exe -S D:\TUDelft_practice\Q1\PythonForGIS\Assignments\assignment4 -B D:\TUDelft_practice\Q1\PythonForGIS\Assignments\assignment4\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/TUDelft_practice/Q1/PythonForGIS/Assignments/assignment4/cmake-build-debug
